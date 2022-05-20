@@ -1,5 +1,5 @@
 This is the central repository of the EC Library.
-Projects include the Europa site, EuroLib, intranet giles etc...
+Projects include the Europa site, EuroLib, intranet files etc...
 
 <!---
 eclibrary/eclibrary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
